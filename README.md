@@ -1,20 +1,29 @@
-<h1 align="center">Hi there, I'm Mohamed Sassi 👋</h1>
-<h3 style="font-weight:bold; font-style: italic; color: gray;" align="center">I'm a freelance digital designer & jamstack developer from Toronto, Canada!<br/><br/>
-</h3>
 
-- 🔭 I’m currently working on building my scaffolding tool.
-- 🌱 I’m currently learning Svelte and headless CMS with React
+![Banner Image](https://github.com/Sassi360/sassi360/blob/Main/Assets/banner.png?raw=true)
+
+<h2 align="center" style="font-weight: bold; font-size: 15px;">Hi there 👋, </h2>
+<h1 align="center" style="font-weight: bold; font-size: 25px;">I'm Mohamed Sassi
+<a href="https://www.linkedin.com/in/sassim/" style="display: flex; justify-content: center; margin: 0.5em 0;"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></h1>
+
+
+An experienced Front-end web developer aiming to continue building a strong technical foundation that encompasses full-stack capabilities yet focuses on UI/UX conception, design, implementation, monitoring, and management.
+
+**Specialties** React.js, JavaScript/ES6, Typescript, Tailwind CSS, Bootstrap, Material UI, Ant-design, HTML5, CSS3, SCSS/SASS, Webpack, Node.js, Express, Web Development, Responsive Web Design.
+
+<br/>
+
+- 🔭 I’m currently working as **Freelance Frontend Developer**
+- 🌱 I’m currently learning **Svelte and headless CMS with React**
 - 🥅 2021 Goals: Creating a SaaS platform (Coming Soon)
-- ⚡ Fun fact: [Proud owner of 4 Bengal cat](https://www.instagram.com/toronto_bengal_sisters/)
-  <br/><br/>
+- 🤔 I’m looking for help with digital marketing to drive traffic to my blog.
+- ⚡ Fun fact: [**Proud owner of 4 Bengal cat**](https://www.instagram.com/toronto_bengal_sisters/)
 
-<a href="https://github.com/sassi360">
-<img align="center" alt="sassi360 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sassi360&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> <a href="https://github.com/sassi360">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sassi360&layout=compact&theme=radical" />
-</a><br/><br/>
+---
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p><br/><br/>
 
-[website]: https://msassi.dev
-[linkedin]: https://www.linkedin.com/in/sassim/
+<br/>
+<div style="display: flex; justify-content:center; margin-top: 2em;">
+
+![Sassi360 github stats](https://github-readme-stats.vercel.app/api?username=sassi360&show_icons=true&hide_border=true&theme=dark)
+
+</div>
