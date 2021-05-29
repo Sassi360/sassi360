@@ -8,7 +8,7 @@
 
 An experienced Front-end web developer aiming to continue building a strong technical foundation that encompasses full-stack capabilities yet focuses on UI/UX conception, design, implementation, monitoring, and management.
 
-**Specialties** React.js, JavaScript/ES6, Typescript, Tailwind CSS, Bootstrap, Material UI, Ant-design, HTML5, CSS3, SCSS/SASS, Webpack, Node.js, Express, Web Development, Responsive Web Design.
+**Specialties** React.js, Next.js, Gatsby.js, JavaScript/ES6, Typescript, Tailwind CSS, Bootstrap, Material UI, Ant-design, HTML5, CSS3, SCSS/SASS, Webpack, Node.js, Express, Web Development, Responsive Web Design.
 
 <br/>
 
@@ -20,8 +20,6 @@ An experienced Front-end web developer aiming to continue building a strong tech
 
 ---
 
-
-<br/>
 <div style="display: flex; justify-content:center; margin-top: 2em;">
 
 ![Sassi360 github stats](https://github-readme-stats.vercel.app/api?username=sassi360&show_icons=true&hide_border=true&theme=dark)
