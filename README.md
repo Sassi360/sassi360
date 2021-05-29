@@ -1,5 +1,5 @@
 
-![Banner Image](https://github.com/Sassi360/sassi360/blob/Main/Assets/banner.png?raw=true)
+![Banner Image](https://github.com/Sassi360/sassi360/blob/main/Assets/banner.png)
 
 <h2 align="center" style="font-weight: bold; font-size: 15px;">Hi there 👋, </h2>
 <h1 align="center" style="font-weight: bold; font-size: 25px;">I'm Mohamed Sassi
