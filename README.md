@@ -18,6 +18,6 @@ An experienced Front-end web developer aiming to continue building a strong tech
 
 <div style="display: flex; justify-content:center; margin-top: 2em;">
 
-![Sassi360 github stats](https://github-readme-stats.vercel.app/api?username=sassi360&show_icons=true&hide_border=true&theme=dark)
+![Sassi360 github stats](https://github-readme-stats.vercel.app/api?username=sassi360&show_icons=true&hide_border=true&theme=dark&count_private=true)
 
 </div>
