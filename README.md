@@ -1,18 +1,25 @@
-<h1 align="center" style="font-weight: bold; font-size: 25px;">I'm Mohamed Sassi
+
+
+<h1 align="center" style="font-weight: bold; font-size: 25px;">Hi, I'm Mohamed Sassi 
 <a href="https://www.linkedin.com/in/sassim/" style="display: flex; justify-content: center; margin: 0.5em 0;"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></h1>
 
+### PROFESSIONAL SUMMARY
 
-An experienced Front-end web developer aiming to continue building a strong technical foundation that encompasses full-stack capabilities yet focuses on UI/UX conception, design, implementation, monitoring, and management.
+I specialize in building scalable web infrastructure and creating high-performance and responsive websites. My career development focuses on skill consolidation and diversification in Front-end fundamentals, programming languages, and developer tools. In addition, I am passionate about technology innovations and dedicated to providing outstanding user experiences.
 
-**Specialties** React.js, Next.js, Gatsby.js, JavaScript/ES6, Typescript, Tailwind CSS, Bootstrap, Material UI, Ant-design, HTML5, CSS3, SCSS/SASS, Webpack, Node.js, Express, Web Development, Responsive Web Design.
+### SKILLS
+
+- **Programming Languages**: JavaScript/TypeScript, HTML, CSS, Java
+- **Libraries & Frameworks**: React.js, Next.js, Redux, Chakra UI, Material UI, GraphQL, Strapi, Tailwind CSS
+- **DevOps**: AWS, Digital Ocean, Vercel, Docker, GitHub Actions
+- **Tools**: Jira, Linear, Notion, Cypress, Storybook
 
 <br/>
 
-- 🔭 I’m currently working as **Freelance Frontend Developer**
-- 🌱 I’m currently learning **Svelte and headless CMS with React**
-- 🥅 2021 Goals: Creating a SaaS platform (Coming Soon)
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog.
-- ⚡ Fun fact: [**Proud owner of 4 Bengal cat**](https://www.instagram.com/toronto_bengal_sisters/)
+- 🔭 I’m currently looking for new opportunity (Contract or Fulltime)
+- 🌱 I’m currently learning to become a **Frontend Engineer**
+- 🥅 2023 Goals: Creating a SaaS platform (Coming Soon)
+- ⚡ Fun fact: [**Proud owner of 4 Bengal cat**](https://www.instagram.com/toronto_bengal_sisters/) and 3 Dogs [**Border Collie, Golden Retriever and Husky**]() (link coming soon)
 
 ---
 
