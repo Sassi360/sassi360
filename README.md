@@ -7,6 +7,8 @@
 
 I specialize in building scalable web infrastructure and creating high-performance and responsive websites. My career development focuses on skill consolidation and diversification in Front-end fundamentals, programming languages, and developer tools. In addition, I am passionate about technology innovations and dedicated to providing outstanding user experiences.
 
+---
+
 ### SKILLS
 
 - **Programming Languages**: JavaScript/TypeScript, HTML, CSS, Java
@@ -14,7 +16,8 @@ I specialize in building scalable web infrastructure and creating high-performan
 - **DevOps**: AWS, Digital Ocean, Vercel, Docker, GitHub Actions
 - **Tools**: Jira, Linear, Notion, Cypress, Storybook
 
-<br/>
+---
+### ABOUT ME
 
 - 🔭 I’m currently looking for new opportunity (Contract or Fulltime)
 - 🌱 I’m currently learning to become a **Frontend Engineer**
@@ -22,9 +25,3 @@ I specialize in building scalable web infrastructure and creating high-performan
 - ⚡ Fun fact: [**Proud owner of 4 Bengal cat**](https://www.instagram.com/toronto_bengal_sisters/) and 3 Dogs [**Border Collie, Golden Retriever and Husky**]() (link coming soon)
 
 ---
-
-<div style="display: flex; justify-content:center; margin-top: 2em;">
-
-![Sassi360 github stats](https://github-readme-stats.vercel.app/api?username=sassi360&show_icons=true&hide_border=true&theme=dark&count_private=true)
-
-</div>
