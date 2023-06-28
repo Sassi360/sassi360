@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-weight: bold; font-size: 25px;">Hi, I'm Mohamed Sassi 
+<h1 align="center" style="font-weight: bold; font-size: 25px;">Hi, I'm Mo Sassi 
 <a href="https://www.linkedin.com/in/sassim/" style="display: flex; justify-content: center; margin: 0.5em 0;"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></h1>
 
 ### PROFESSIONAL SUMMARY
