@@ -22,5 +22,3 @@ Senior Frontend Developer with extensive experience in building robust and scala
 - 🔭 I’m currently looking for new opportunity (Contract or Fulltime)
 - 🥅 2024 Goals: Build mirco-projects each month
 - ⚡ Fun fact: [**Proud owner of 4 Bengal cat**](https://www.instagram.com/toronto_bengal_sisters/) and 4 Dogs [**2 Border Collie, Golden Retriever and Husky**]() (link coming soon)
-
----
