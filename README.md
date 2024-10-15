@@ -5,16 +5,17 @@
 
 ### Summary
 
-Senior Frontend Developer with extensive experience in building robust and scalable web solutions. I excel in collaborating with innovative teams to enhance user experiences using JavaScript, TypeScript, React, and cutting-edge frameworks. Dedicated to leading, inspiring, and making impactful contributions to forward-thinking web applications.
+Senior Frontend Developer with 8 years of experience delivering high-performance web applications. Expertise in JavaScript, TypeScript, React and Vue, with a focus on creating intuitive user interfaces and scalable design systems. Consistently improves development efficiency and reduces time-to-market through streamlined processes and best practices. Adept at translating complex requirements into user-friendly solutions that drive product adoption and business growth.
 
 ---
 
 ### Technical Skills
 
-- **Programming Languages**: JavaScript, TypeScript, HTML5, CSS3, Node.js
-- **Libraries & Frameworks**: React, Vue, Vite, Redux, Pinia, TailwindCSS, Chakra UI, Next.js, Nuxt.js, Hono.js
-- **Databases**: PostgreSQL, SQLite
-- **Tools**: Git, Vercel, Railway, Netlify, Docker, Yarn, PNPM, Jira, Linear
+- **Frontend:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks and Libraries:** React, Vue, Redux, TailwindCSS, Chakra UI, Next.js, Nuxt.js
+- **Backend & Databases:** Hono, H3, Nitro, PostgreSQL, SQLite, Turso
+- **Tools and Platforms:** Git, Vite, Vercel, Railway, Netlify, Docker, Yarn, pnpm
+- **User Experience (UX) and Accessibility:** Figma, WCAG AA, a11y best practices, i18n
 
 ---
 ### About Me
