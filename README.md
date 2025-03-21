@@ -5,7 +5,7 @@
 
 ### Summary
 
-Senior Frontend Developer with 8 years of experience delivering high-performance web applications. Expertise in JavaScript, TypeScript, React and Vue, with a focus on creating intuitive user interfaces and scalable design systems. Consistently improves development efficiency and reduces time-to-market through streamlined processes and best practices. Adept at translating complex requirements into user-friendly solutions that drive product adoption and business growth.
+Senior Frontend Developer with 8 years of experience building fast, user-friendly web applications. Skilled in JavaScript, TypeScript, React, and Vue, with a strong focus on intuitive UI and scalable design. I streamline development processes to improve efficiency and speed up releases while ensuring top-notch user experiences. Passionate about turning complex ideas into easy-to-use solutions that drive engagement and business growth.
 
 ---
 
